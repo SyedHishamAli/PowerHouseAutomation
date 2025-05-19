@@ -1,4 +1,4 @@
-package Base;
+package Utils;
 
 public interface Locators {
     //-------------------------Login Elements---------------------------------

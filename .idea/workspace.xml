@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5321f09b-c559-47f3-a2f7-e0c5aafbe2e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base/Base.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,9 @@
     &quot;accountId&quot;: &quot;2e82afc7-67d1-43a4-8470-d8a23cdf5dac&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Base/Base.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>

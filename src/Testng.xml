@@ -1,8 +1,12 @@
-<suite name="MySuite">
+<suite name="MySuite" parallel="methods" thread-count="5">
     <test name="LoginTest">
         <classes>
             <class name="LoginTest"/>
             <!-- Add more test classes here -->
         </classes>
     </test>
+    <listeners>
+        <listener class-name="Listeners.TestListener"/>
+    </listeners>
+
 </suite>
