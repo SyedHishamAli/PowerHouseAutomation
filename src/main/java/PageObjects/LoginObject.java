@@ -1,6 +1,7 @@
 package PageObjects;
 
 import Base.Base;
+import org.testng.Assert;
 
 import java.lang.classfile.Signature;
 
@@ -14,5 +15,7 @@ public class LoginObject extends Base {
         page.locator(passwordInput).fill(password);
         page.locator(remembermeCheckbox).click();
         page.locator(loginCTA).click();
+        String expectedURL="https://prsl-dev.outsystemsenterprise.com/Dashboard/Homepage.aspx";
+        Assert.assertEquals(page.url(), expectedURL);
     }
 }
