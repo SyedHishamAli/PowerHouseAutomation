@@ -5,4 +5,7 @@
             <!-- Add more test classes here -->
         </classes>
     </test>
+    <listeners>
+        <listener class-name="Utils.TestListener"/>
+    </listeners>
 </suite>

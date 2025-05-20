@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5270c83c-4471-4023-a907-c40dae24d374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Utils/Locators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/base/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pages/LoginObjects.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +16,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SyedHishamAli"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SyedHishamAli/PowerHouseAutomation.git",
+    "accountId": "2e82afc7-67d1-43a4-8470-d8a23cdf5dac"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -51,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml.executor": "Run",
     "TestNG.LoginTest.executor": "Run",
     "git-widget-placeholder": "master",
     "project.structure.last.edited": "Modules",
@@ -59,7 +58,17 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml">
+    <configuration name="C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PowerHouseAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PowerHouseAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -73,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml" />
         <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
