@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5270c83c-4471-4023-a907-c40dae24d374" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SyedHishamAli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SyedHishamAli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SyedHishamAli/PowerHouseAutomation.git",
-    "accountId": "2e82afc7-67d1-43a4-8470-d8a23cdf5dac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SyedHishamAli/PowerHouseAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;2e82afc7-67d1-43a4-8470-d8a23cdf5dac&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -44,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml">
+}</component>
+  <component name="RunManager" selected="TestNG.LoginTest">
     <configuration name="C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PowerHouseAutomation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/Testng.xml" />
@@ -82,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml" />
         <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.C:/Users/rahul.sharma/IdeaProjects/PowerHouseAutomation/src/Testng.xml" />
       </list>
     </recent_temporary>
   </component>
