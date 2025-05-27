@@ -10,7 +10,7 @@ public class Base {
     protected Browser browser;
     protected Page page;
 
-    public void setUp() {
+  public void setUp() {
         playwright = Playwright.create();
         browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
         page = browser.newPage();
